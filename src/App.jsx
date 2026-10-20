@@ -4,9 +4,9 @@ import TaskForm from "./components/TaskForm.jsx";
 import "./App.css";
 
 const STARTING_TASKS = [
-  { id: 1, title: "Finish GT13", dueDate: "2026-10-21" },
-  { id: 2, title: "Wake up the Render service", dueDate: "2026-10-21" },
-  { id: 3, title: "Review CORS", dueDate: "2026-10-28" },
+  { id: 1, title: "Finish GT13 THE BOOK", dueDate: "2026-10-21" },
+  { id: 2, title: "Harry Potter and the Philosopher's Stone", dueDate: "2026-10-21" },
+  { id: 3, title: "Lord Of The Rings", dueDate: "2026-10-28" },
 ];
 
 function App() {
