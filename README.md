@@ -1,3 +1,8 @@
+# ITELECT2 - Task Manager Client (GT14)
+
+- **Live Deployed Web Application:** https://itelect2-project-rode.onrender.com
+- **Backend Repository:** https://github.com/JaimeWritesCode/itelect2-project
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
